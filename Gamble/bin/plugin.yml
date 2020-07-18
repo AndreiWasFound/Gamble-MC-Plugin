@@ -1,0 +1,8 @@
+main: me.AndreiWasFound.Gamble.Main
+name: Gamble
+version: 1.1
+author: AndreiWasFound
+api-version: 1.13
+
+commands:
+  gamble:
